@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/CueBlocks_BulkRuleDeletion",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Extension add feature to delete promotion rules in bulk.",
+    "authors": [
+    {
+        "name": "CueBlocks",
+        "email": "ravinder.singh@cueblocks.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>CueBlocks_BulkRuleDeletion</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Extension add feature to delete promotion rules in bulk.</summary>
+    <description>Extension add feature to delete promotion rules in bulk.</description>
+    <notes>First Release</notes>
+    <authors><author><name>CueBlocks</name><user>Ravinder</user><email>ravinder.singh@cueblocks.com</email></author></authors>
+    <date>2016-03-29</date>
+    <time>09:49:50</time>
+    <contents><target name="magecommunity"><dir name="CueBlocks"><dir name="BulkRuleDeletion"><dir name="Block"><dir name="Adminhtml"><dir name="Promo"><dir name="Catalog"><file name="Grid.php" hash="bb081f70367764cc835d70041dea80e8"/></dir><dir name="Quote"><file name="Grid.php" hash="9a5539224a36aca461bbbaa264635286"/></dir></dir></dir></dir><dir name="controllers"><dir name="Adminhtml"><file name="BulkRuleController.php" hash="0d18a1f3079ece522bdf4603bc4d33c0"/></dir></dir><dir name="etc"><file name="config.xml" hash="d71f6299c0d8455d292cb1af01ff66a4"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="CueBlocks_BulkRuleDeletion.xml" hash="3ae7a0feff7b5eca79e46dd13ba392c7"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.0.2</min><max>6.0.0</max></php></required></dependencies>
+</package>
