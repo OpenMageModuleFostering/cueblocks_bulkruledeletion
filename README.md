@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Extension add feature to delete promotion rules in bulk.
